@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" height="325" width="1000" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif">
+<img align="middle" alt="Coding" height="300" width="950" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif">
 
 <h1 align="center">Hi 👋, I'm Louigie Caminoy</h1>
 <h3 align="center">Aspiring Full Stack, Blockchain & Machine Learning Developer</h3>
