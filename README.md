@@ -28,7 +28,7 @@
 - 💡 Passionate about **Blockchain & Web3**
 - 📫 Reach me at **louigiecads143@gmail.com**
 - ⚡ Fun fact: **I think then I forget**
-- 🎯 Goals: Contributing to Open Source Projects & Innovating Intelligent Applications
+- 🎯 Goal: Innovate Intelligent Applications
 - 🌐 Portfolio: [Coming Soon](#)
 
 ### 🤝 Connect with me
