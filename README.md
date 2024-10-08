@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" height="800" width="1300" src="https://cdn.dribbble.com/users/192882/screenshots/4659605/dribbble-animation.gif">
+<img align="middle" alt="Coding" height="450" width="900" src="https://discovertemplate.com/wp-content/uploads/2020/12/DT_G66_Bitcoin-Animated-GIF-Icon-Pack.gif">
 
 <h1 align="center">Hi 👋, I'm Louigie Caminoy</h1>
 <h3 align="center">Aspiring Full Stack, Blockchain & Machine Learning Developer</h3>
