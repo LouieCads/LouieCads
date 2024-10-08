@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="600" src="https://discovertemplate.com/wp-content/uploads/2020/12/DT_G66_Bitcoin-Animated-GIF-Icon-Pack.gif">
+<img align="middle" alt="Coding" height="360" width="1000" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif">
 
 <h1 align="center">Hi 👋, I'm Louigie Caminoy</h1>
 <h3 align="center">Aspiring Full Stack, Blockchain & Machine Learning Developer</h3>
