@@ -44,7 +44,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,figma,js,php,mysql,git,cs,nodejs,express,react&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,figma,js,php,mysql,git,cs,nodejs,express,react&perline=10" />
 </p>
 
 ### 📊 GitHub Stats
