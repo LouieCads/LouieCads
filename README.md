@@ -64,5 +64,5 @@
 ---
 
 <div align="center">
-  <b>🏆 Get in touch and let's innovate something amazing together! 🚀</b>
+  <b>Sacrificing temporary fun to create permanent stability</b>
 </div>
