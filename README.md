@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/louie_owe"><img src="https://img.shields.io/twitter/follow/louie_owe?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
+  <a href="https://twitter.com/louiee_crypto"><img src="https://img.shields.io/twitter/follow/louie_owe?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
   <img src="https://komarev.com/ghpvc/?username=louiecads&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
