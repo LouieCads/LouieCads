@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-  Aspiring Full Stack, Blockchain & Machine Learning Developer
+  Aspiring Blockchain Developer & AI Engineer  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
