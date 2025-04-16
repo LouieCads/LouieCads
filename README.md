@@ -40,7 +40,12 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,chainlink,react,nextjs,nodejs,express,cs,java,php,mysql,git,figma&perline=7" />
+  <!-- Manually added icons -->
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Hardhat" width="40" height="40"/>
+
+  <!-- skillicons -->
+  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,nodejs,express,cs,java,php,mysql,git,figma&perline=7" />
 </p>
 
 ### 📊 GitHub Stats
