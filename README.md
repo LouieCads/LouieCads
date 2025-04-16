@@ -40,7 +40,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,react,nextjs,express,nodejs,cs,java,php,figma,chainlink,mysql,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,chainlink,react,nextjs,nodejs,express,cs,java,php,mysql,git,figma&perline=7" />
 </p>
 
 ### 📊 GitHub Stats
