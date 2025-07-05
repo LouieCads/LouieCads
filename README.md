@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  GM! I'm Louigie Caminoy
+  GM! I'm Louie
 </h1>
 
 <div align="center">
