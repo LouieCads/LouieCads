@@ -28,9 +28,9 @@
   <a href="https://stackoverflow.com/users/17355629" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p>
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,nodejs,cs,java,php&perline=10" />
+  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,nodejs,cs,java,tailwind&perline=10" />
 </p>
 
 ### 🛠️ Tools and Databases
