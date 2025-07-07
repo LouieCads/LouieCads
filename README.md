@@ -53,7 +53,7 @@
   </p>
   <p align="left">
     <img src="https://img.shields.io/badge/Lovable-FF4081?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
-    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   </p>
 </div>
