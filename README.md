@@ -29,9 +29,14 @@
 </p>
 
 ### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,cs,java,react,nextjs,express,tailwind&perline=10" />
-</p>
+<div>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=solidity,js,cs,java,react,nextjs&perline=10" />
+  </p>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=express,tailwind&perline=10" />
+  </p>
+</div>
 
 ### 🛠️ Tools and Databases
 <p align="left">
@@ -39,15 +44,19 @@
 </p>
 
 ### 🤖 AI Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
-  <img src="https://img.shields.io/badge/Lovable-FF4081?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+<div>
+  <p align="left">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Lovable-FF4081?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
+    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  </p>
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
