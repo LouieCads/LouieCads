@@ -30,7 +30,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,nodejs,cs,java,tailwind&perline=10" />
+  <img src="https://skillicons.dev/icons?i=solidity,cs,java,react,nextjs,express,tailwind&perline=10" />
 </p>
 
 ### 🛠️ Tools and Databases
