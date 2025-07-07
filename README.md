@@ -28,22 +28,25 @@
   <a href="https://stackoverflow.com/users/17355629" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Languages and Tools
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,nodejs,cs,java,php,mysql,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,express,nodejs,cs,java,php&perline=10" />
 </p>
 
-### 📱 Mobile & Database
+### 🛠️ Tools and Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,figma,mysql,mongodb&perline=10" />
 </p>
 
-### 🤖 AI Tools & Platforms
+### 🤖 AI Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Lovable-FF4081?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ### 📊 GitHub Stats
