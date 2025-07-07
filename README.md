@@ -40,7 +40,7 @@
 
 ### 🛠️ Tools and Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,mysql,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,mysql,mongodb&perline=10" />
 </p>
 
 ### 🤖 AI Tools
