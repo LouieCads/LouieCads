@@ -1,16 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  GM! Louie here
-</h1>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="banner" width="800"/>
 </div>
-
-<h3 align="center">
-  Aspiring Blockchain Developer & AI Engineer  
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h3>
 
 ---
 
