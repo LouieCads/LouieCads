@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  GM! I'm Louie
+  GM! Louie here
 </h1>
 
 <div align="center">
@@ -20,13 +20,12 @@
 <p align="left">
   <a href="https://twitter.com/louiee_crypto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/louie1221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/17355629" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p>
 
 ### 💻 Languages & Frameworks
 <div>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=solidity,js,cs,java,react,nextjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=solidity,js,ts,java,react,nextjs&perline=10" />
   </p>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=express,tailwind&perline=10" />
@@ -35,7 +34,7 @@
 
 ### 🛠️ Tools and Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode,mysql,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode,mysql,mongodb,postgres&perline=10" />
 </p>
 
 ### 🤖 AI Tools
@@ -44,11 +43,9 @@
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
     <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
     <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
   </p>
   <p align="left">
-    <img src="https://img.shields.io/badge/Lovable-FF4081?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
-    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+    <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   </p>
 </div>
