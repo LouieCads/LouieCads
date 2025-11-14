@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-### 🤝 Connect with me
+### Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/louie1221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/louiee_crypto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <div>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=solidity,js,ts,java,react,nextjs&perline=10" />
@@ -22,12 +22,12 @@
   </p>
 </div>
 
-### 🛠️ Tools and Databases
+### Tools and Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,figma,vscode,mysql,mongodb,postgres&perline=10" />
 </p>
 
-### 🤖 AI Tools
+### AI Tools
 <div>
   <p align="left">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -40,7 +40,7 @@
   </p>
 </div>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=louiecads&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
