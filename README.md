@@ -15,10 +15,10 @@
 ### Languages & Frameworks
 <div>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=solidity,js,ts,java,react,nextjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=solidity,ts,js,java,svelte,react&perline=10" />
   </p>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=express,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,tailwind,html,css&perline=10" />
   </p>
 </div>
 
